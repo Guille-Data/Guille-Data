@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Soy Guille un Apasionado de Data, IA & Analytics</h1>
+<h1 align="center"> 👋 Soy Guille, un Apasionado de Data, IA & Analytics</h1>
 <p align="center">
   <strong>Consultor en Google Ads • Máster en Data Analytics • Entusiasta de la IA • Aprendiz Permanente</strong>
 </p>
